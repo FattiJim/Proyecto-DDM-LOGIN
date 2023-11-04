@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buap">  #002D4C</color>
+    <color name="fondo">#f2f1f6</color>
+    <color name="color"> #002D4C</color>
+    <item name="colorPrimary" type="color"> #002D4C</item>
+    <item name="colorPrimaryDark" type="color"> #002D4C</item>
+
+</resources>
